@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-10-18T14:01:46.730246+09:00"
+entries:
+  chart1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-18T14:57:20.886074+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 4522e1eae6b95988e391daf3b28b4271677252d8eea5b9083e44fa6ddf093e5e
+    name: chart1
+    type: application
+    urls:
+    - https://shu-unifra.github.io/my-repo/chart1-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-18T14:57:20.882205+09:00"
